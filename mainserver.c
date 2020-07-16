@@ -1,7 +1,7 @@
 
 /*
 * Assignment 2: Data Transformation Services
-* Juan Bondad 30050828
+* 
 * 
 * This is the main server which uses TCP as the transport layer protocol for data transfer with the main client
 * UDP is used for connection with the micro services.
