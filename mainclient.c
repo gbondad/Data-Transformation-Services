@@ -1,7 +1,7 @@
 
 /*
 * Assignment 2: Data Transformation Services
-* Juan Bondad 30050828
+* 
 * 
 * This is the main client which uses TCP as the transport layer protocol for data transfer with the master server
 */
